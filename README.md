@@ -1,1 +1,3 @@
-# Projekt_STD
+Maciej Wrona
+Bartosz Szaniecki
+Jakub Cieślak
